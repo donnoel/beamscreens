@@ -8,7 +8,7 @@ url: https://donnoel.github.io
 baseurl: /beamscreens
 lang: en-US
 
-remote_theme: donnoel/projects-theme@acb1910e2c2c9b96371d5a1311b7ffdd502e8d56
+remote_theme: donnoel/projects-theme@v1.0.1
 plugins:
   - jekyll-remote-theme
 
