@@ -17,7 +17,6 @@ title: Beam
     </ul>
   </div>
   <aside class="status-card" aria-labelledby="build-status-title">
-    <div class="status-card__topline"><span class="status-pill"><span class="status-dot" aria-hidden="true"></span>{{ site.status_label }}</span><span class="status-card__meta">Local first</span></div>
     <div class="house-mark" aria-hidden="true"><span></span><span></span><span></span><span></span></div>
     <p class="status-card__kicker">Current foundation</p>
     <h2 id="build-status-title">Operate from the dashboard.<br>Recover at the screen.</h2>

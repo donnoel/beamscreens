@@ -2,7 +2,6 @@ title: Beam
 description: A local-first Raspberry Pi digital-signage operations console.
 tagline: Reliable playback. Clear controls. Screens that recover themselves.
 project_label: Don Noel / Projects
-status_label: Five-Pi pilot
 github_url: https://github.com/donnoel/beamscreens
 url: https://donnoel.github.io
 baseurl: /beamscreens
