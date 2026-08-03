@@ -3,11 +3,12 @@ description: A local-first Raspberry Pi digital-signage operations console.
 tagline: Reliable playback. Clear controls. Screens that recover themselves.
 project_label: Don Noel / Projects
 github_url: https://github.com/donnoel/beamscreens
+hide_github_link: true
 url: https://donnoel.github.io
 baseurl: /beamscreens
 lang: en-US
 
-remote_theme: donnoel/projects-theme@v1.0.1
+remote_theme: donnoel/projects-theme@v1.0.2
 plugins:
   - jekyll-remote-theme
 
