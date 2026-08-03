@@ -70,5 +70,5 @@ title: Beam
 
 <section class="section foundation" aria-labelledby="foundation-title">
   <div><p class="eyebrow">Built to recover boringly well</p><h2 id="foundation-title">A missing network should not make a blank TV.</h2></div>
-  <p>Beam keeps cached media and playlist state on every appliance, standardizes C1–C5 against a Golden Master, and treats service restart, reboot, power loss, and network loss as normal recovery cases. Separate AWS Pre-production and Production environments support controlled promotion, but neither can replace the local playback contract.</p>
+  <p>Beam keeps cached media and playlist state on every appliance, standardizes every device in the fleet against a Golden Master, and treats service restart, reboot, power loss, and network loss as normal recovery cases. Separate AWS Pre-production and Production environments support controlled promotion, but neither can replace the local playback contract.</p>
 </section>
