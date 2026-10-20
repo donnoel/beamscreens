@@ -9,7 +9,7 @@
 
 ---
 
-## ✨ Overview
+## 🧭 Overview
 
 Public GitHub Pages site for Beam.
 
